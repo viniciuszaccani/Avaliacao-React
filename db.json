@@ -1,0 +1,156 @@
+{
+  "tasks": [
+    {
+      "titulo": "Preparação para apresentação de projeto",
+      "descricao": "Estudar os detalhes do projeto para a apresentação",
+      "prioridade": "Média",
+      "status": "A fazer",
+      "categoria": "faculdade",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "titulo": "Comprar materiais de escritório",
+      "descricao": "Comprar canetas, cadernos e outros materiais para o trabalho",
+      "prioridade": "baixa",
+      "status": "feito",
+      "categoria": "compras"
+    },
+    {
+      "id": "4",
+      "titulo": "Reunião com equipe de desenvolvimento",
+      "descricao": "Discutir novos recursos do aplicativo",
+      "prioridade": "alta",
+      "status": "em andamento",
+      "categoria": "trabalho"
+    },
+    {
+      "titulo": "Leitura do livro sobre Inteligência Artificial",
+      "descricao": "Ler os próximos capítulos do livro sobre IAaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "prioridade": "media",
+      "status": "a fazer",
+      "categoria": "estudos",
+      "id": "5"
+    },
+    {
+      "titulo": "Organizar festa de aniversário",
+      "descricao": "Apenas ir",
+      "prioridade": "Baixa",
+      "status": "A fazer",
+      "categoria": "pessoal",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "titulo": "Atualização de currículo",
+      "descricao": "Adicionar novos cursos e experiência profissional no currículo",
+      "prioridade": "media",
+      "status": "feito",
+      "categoria": "trabalho"
+    },
+    {
+      "id": "8",
+      "titulo": "Fazer compras de supermercado",
+      "descricao": "Comprar alimentos e produtos para a casa",
+      "prioridade": "baixa",
+      "status": "a fazer",
+      "categoria": "compras"
+    },
+    {
+      "titulo": "Revisão do código",
+      "descricao": "Revisar o código do projeto para garantir que está funcionando corretamente",
+      "prioridade": "Baixa",
+      "status": "A fazer",
+      "categoria": "trabalho",
+      "id": "9"
+    },
+    {
+      "id": "10",
+      "titulo": "Estudar para exame de matemática",
+      "descricao": "Revisar teoria e fazer exercícios de matemática",
+      "prioridade": "alta",
+      "status": "a fazer",
+      "categoria": "estudos"
+    },
+    {
+      "id": "11",
+      "titulo": "Criar site para portfólio",
+      "descricao": "Desenvolver um site pessoal para exibir projetos realizados",
+      "prioridade": "media",
+      "status": "feito",
+      "categoria": "trabalho"
+    },
+    {
+      "id": "12",
+      "titulo": "Limpar a casa",
+      "descricao": "Fazer a limpeza completa da casa",
+      "prioridade": "baixa",
+      "status": "feito",
+      "categoria": "pessoal"
+    },
+    {
+      "id": "13",
+      "titulo": "Assistir aula de Design",
+      "descricao": "Assistir aula de design gráfico online",
+      "prioridade": "media",
+      "status": "a fazer",
+      "categoria": "estudos"
+    },
+    {
+      "id": "14",
+      "titulo": "Organizar documentos fiscais",
+      "descricao": "Organizar todos os documentos fiscais do ano para o contador",
+      "prioridade": "alta",
+      "status": "a fazer",
+      "categoria": "pessoal"
+    },
+    {
+      "id": "15",
+      "titulo": "Atualizar software de gestão",
+      "descricao": "Instalar a versão mais recente do software de gestão utilizado na empresa",
+      "prioridade": "media",
+      "status": "em andamento",
+      "categoria": "trabalho"
+    },
+    {
+      "id": "16",
+      "titulo": "Planejar viagem para férias",
+      "descricao": "Pesquisar destinos e opções de hospedagem para as férias",
+      "prioridade": "baixa",
+      "status": "feito",
+      "categoria": "pessoal"
+    },
+    {
+      "id": "17",
+      "titulo": "Revisar plano de negócios",
+      "descricao": "Atualizar o plano de negócios com as novas metas e estratégias",
+      "prioridade": "alta",
+      "status": "a fazer",
+      "categoria": "trabalho"
+    },
+    {
+      "id": "18",
+      "titulo": "Limpeza do jardim",
+      "descricao": "Cuidar das plantas e fazer a manutenção do jardim",
+      "prioridade": "baixa",
+      "status": "feito",
+      "categoria": "pessoal"
+    },
+    {
+      "titulo": "Transformando status em select",
+      "descricao": "descrição da task",
+      "prioridade": "Media",
+      "status": "Fazendo",
+      "categoria": "categoria da task",
+      "id": "a7db"
+    },
+    {
+      "titulo": "Apresentar trabalho faculdade",
+      "descricao": "De sexta",
+      "prioridade": "Baixa",
+      "status": "A fazer",
+      "categoria": "faculdade",
+      "id": "b597"
+    }
+  ]
+}
