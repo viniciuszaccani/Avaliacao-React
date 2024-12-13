@@ -120,3 +120,9 @@ Antes de iniciar o projeto, certifique-se de ter instalado:
 - `/produtos/cadastrar` - Cadastro de uma nova tarefa
 - `/editar/:id` - Edição de uma tarefa específica
 
+## Contribuidores
+
+- **Vinicius Zaccani** - [GitHub](https://github.com/ViniciusZaccani)
+- **Leticia Kremer** - [GitHub](https://github.com/leticiakremer)
+
+Sinta-se à vontade para abrir issues ou contribuir com melhorias no projeto!
